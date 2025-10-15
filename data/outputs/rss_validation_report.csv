@@ -1,0 +1,11 @@
+pub,url,ok,feed_type,entries,head_content_type,get_content_type,bozo,reason
+Anton Howes,https://antonhowes.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Cliodynamica by Peter Turchin,https://peterturchin.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Hardware FYI,https://hardwarefyi.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Letters from an American by Heather Cox Richardson,https://heathercoxrichardson.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Noahpinion,https://noahpinion.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Poetic Outlaws,https://poeticoutlaws.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Read Max,https://maxread.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+Story Club by George Saunders,https://georgesaunders.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+The Culturist,https://culturist.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,
+The Intrinsic Perspective,https://erikhoel.substack.com/feed,True,rss20,1,application/xml; charset=utf-8,application/xml; charset=utf-8,1,

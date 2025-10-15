@@ -1,0 +1,32 @@
+{
+  "subscribes": {
+    "Read Max": "https://maxread.substack.com/feed",
+    "Noahpinion": "https://noahpinion.substack.com/feed",
+    "The Intrinsic Perspective": "https://erikhoel.substack.com/feed",
+    "Cliodynamica by Peter Turchin": "https://peterturchin.substack.com/feed",
+    "The Culturist": "https://culturist.substack.com/feed",
+    "Story Club by George Saunders": "https://georgesaunders.substack.com/feed",
+    "Poetic Outlaws": "https://poeticoutlaws.substack.com/feed",
+    "Hardware FYI": "https://hardwarefyi.substack.com/feed",
+    "Letters from an American by Heather Cox Richardson": "https://heathercoxrichardson.substack.com/feed",
+    "Anton Howes": "https://antonhowes.substack.com/feed"
+  },
+  "since_iso": "2023-10-16T01:24:10.066115+00:00",
+  "years_back": 2,
+  "target_posts_per_pub": 50,
+  "symbols": {
+    "emdash": "—",
+    "rocket": "🚀",
+    "green_check": "✅",
+    "sparkles": "✨",
+    "fire": "🔥",
+    "robot": "🤖",
+    "chart_up": "📈",
+    "ellipsis": "…"
+  },
+  "phrases": [
+    "\\bwe'?re\\s+excited\\s+to\\s+announce\\b"
+  ],
+  "request_sleep_s": 0.2,
+  "request_timeout_s": 10
+}
