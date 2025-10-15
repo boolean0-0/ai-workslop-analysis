@@ -11,7 +11,9 @@
     "Letters from an American by Heather Cox Richardson": "https://heathercoxrichardson.substack.com/feed",
     "Anton Howes": "https://antonhowes.substack.com/feed"
   },
-  "since_iso": "2023-10-16T01:24:10.066115+00:00",
+  "start_date": "2023-01-01",
+  "end_date": "2025-10-15",
+  "since_iso": "2023-10-16T03:31:04.205849+00:00",
   "years_back": 2,
   "target_posts_per_pub": 50,
   "symbols": {
